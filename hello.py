@@ -1,3 +1,8 @@
+#############################
+# Learn Python Coding in 2022
+# By Oni Babt
+# Clear the terminal screen
+############################
 import os
 os.system('clear')
 
